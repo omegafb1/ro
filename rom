@@ -236,3 +236,29 @@ http://televiziune.live/generaliste/live1/1522df237afe2390d9297bbe2dd68472/2.ts
 http://televiziune.live/generaliste/live1/1522df237afe2390d9297bbe2dd68472/24.ts
 #EXTINF:-1,Folk
 http://62.210.152.92:25461/kanale2/Ass/78
+
+#EXTM3U
+#EXTINF:-1,Zee Bangla
+http://flussonicusa.bdcabletv.com:80/PCPSCEDAQt/ou0mthW/856
+#EXTINF:-1,Star Jalsha HD
+http://flussonicusa.bdcabletv.com:80/PCPSCEDAQt/ou0mthW/857
+#EXTINF:-1,Somoy TV
+http://flussonicusa.bdcabletv.com:80/PCPSCEDAQt/ou0mthW/858
+#EXTINF:-1,Channel I
+http://flussonicusa.bdcabletv.com:80/PCPSCEDAQt/ou0mthW/859
+#EXTINF:-1,Deepto
+http://flussonicusa.bdcabletv.com:80/PCPSCEDAQt/ou0mthW/861
+#EXTINF:-1,BanglaVision
+http://flussonicusa.bdcabletv.com:80/PCPSCEDAQt/ou0mthW/862
+#EXTINF:-1,Colors Bangla
+http://flussonicusa.bdcabletv.com:80/PCPSCEDAQt/ou0mthW/863
+#EXTINF:-1,Colors
+http://flussonicusa.bdcabletv.com:80/PCPSCEDAQt/ou0mthW/864
+#EXTINF:-1,Zee TV HD
+http://flussonicusa.bdcabletv.com:80/PCPSCEDAQt/ou0mthW/865
+#EXTINF:-1,Sony Tv
+http://flussonicusa.bdcabletv.com:80/PCPSCEDAQt/ou0mthW/866
+#EXTINF:-1,Zee Cinema
+http://flussonicusa.bdcabletv.com:80/PCPSCEDAQt/ou0mthW/867
+#EXTINF:-1,Star Sports 1 HD
+http://flussonicusa.bdcabletv.com:80/PCPSCEDAQt/ou0mthW/868
