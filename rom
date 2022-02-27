@@ -165,5 +165,5 @@ http://flussonicusa.bdcabletv.com:80/PCPSCEDAQt/ou0mthW/866
 http://flussonicusa.bdcabletv.com:80/PCPSCEDAQt/ou0mthW/867
 #EXTINF:-1,Star Sports 1 HD
 http://flussonicusa.bdcabletv.com:80/PCPSCEDAQt/ou0mthW/868
-#EXTINF:-1 tvg-id="BflixMovies.in" tvg-name="Bflix Movies" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="Movies",Bflix Movies (480p)
+#EXTINF:-1 Bflix mOVIE
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8
