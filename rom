@@ -155,6 +155,8 @@ http://televiziune.live/generaliste/live1/3dfd34aa133da0daf54a9f1b3f592417/1.ts
 http://televiziune.live/generaliste/live1/3dfd34aa133da0daf54a9f1b3f592417/2.ts
 #EXTINF:-1,RO: TVR 3
 http://televiziune.live/generaliste/live1/3dfd34aa133da0daf54a9f1b3f592417/24.ts
+#EXTINF:-1 tvg-id="TVRInternational.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/AlW8jyl.png" group-title="General",TVR International (720p) [Not 24/7]
+https://mn-nl.mncdn.com/tvri_test/smil:tvri_test.smil/playlist.m3u8
 #EXTM3U
 #EXTINF:-1,Zee Bangla
 http://flussonicusa.bdcabletv.com:80/PCPSCEDAQt/ou0mthW/856
