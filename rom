@@ -138,3 +138,6 @@ http://televiziune.live/generaliste/live1/b6adc99802626e3ceb219389aa8bdb5c/1.ts
 http://televiziune.live/generaliste/live1/b6adc99802626e3ceb219389aa8bdb5c/2.ts
 #EXTINF:-1,RO: TVR 3
 http://televiziune.live/generaliste/live1/b6adc99802626e3ceb219389aa8bdb5c/24.ts
+
+
+#EXTM3U #EXT-X-VERSION:3 #EXT-X-TARGETDURATION:4 #EXT-X-MEDIA-SEQUENCE:32063 #EXTINF:3.003000, dm_sat_794613_850k3.ts #EXTINF:3.003000, dm_sat_794613_850k4.ts #EXTINF:3.003000, dm_sat_794613_850k5.ts #EXTINF:3.003000, dm_sat_794613_850k6.ts #EXTINF:3.003000, dm_sat_794613_850k7.ts 
