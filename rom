@@ -140,4 +140,14 @@ http://televiziune.live/generaliste/live1/b6adc99802626e3ceb219389aa8bdb5c/2.ts
 http://televiziune.live/generaliste/live1/b6adc99802626e3ceb219389aa8bdb5c/24.ts
 
 
-#EXTM3U #EXT-X-VERSION:3 #EXT-X-TARGETDURATION:4 #EXT-X-MEDIA-SEQUENCE:32063 #EXTINF:3.003000, dm_sat_794613_850k3.ts #EXTINF:3.003000, dm_sat_794613_850k4.ts #EXTINF:3.003000, dm_sat_794613_850k5.ts #EXTINF:3.003000, dm_sat_794613_850k6.ts #EXTINF:3.003000, dm_sat_794613_850k7.ts 
+#EXTM3U
+#EXT-X-INDEPENDENT-SEGMENTS
+
+#EXT-X-STREAM-INF:BANDWIDTH=1477770,AVERAGE-BANDWIDTH=1106944,RESOLUTION=640x360,CODECS="avc1.4d401e,mp4a.40.2"
+https://dai.google.com/linear/hls/pa/event/OQfdjUhHSDSlb1fJVzehsQ/stream/8fe489ca-1613-45a9-acf7-21de14240b83:BRU/variant/3fb6388b913e3f69ed30aa07c842fbc3/bandwidth/1477770.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=4973419,AVERAGE-BANDWIDTH=3725408,RESOLUTION=1280x720,CODECS="avc1.64001f,mp4a.40.2"
+https://dai.google.com/linear/hls/pa/event/OQfdjUhHSDSlb1fJVzehsQ/stream/8fe489ca-1613-45a9-acf7-21de14240b83:BRU/variant/62cdfadc4e3924852ef50f7d3397f9d1/bandwidth/4973419.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=793096,AVERAGE-BANDWIDTH=594080,RESOLUTION=320x180,CODECS="avc1.4d400d,mp4a.40.2"
+https://dai.google.com/linear/hls/pa/event/OQfdjUhHSDSlb1fJVzehsQ/stream/8fe489ca-1613-45a9-acf7-21de14240b83:BRU/variant/c6afdbce7faf8a8d1ef80f630e793830/bandwidth/793096.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=2917391,AVERAGE-BANDWIDTH=2185312,RESOLUTION=720x576,CODECS="avc1.64001e,mp4a.40.2"
+https://dai.google.com/linear/hls/pa/event/OQfdjUhHSDSlb1fJVzehsQ/stream/8fe489ca-1613-45a9-acf7-21de14240b83:BRU/variant/8f865cf1f4d6f59870b7c9d89ac795f0/bandwidth/2917391.m3u8
