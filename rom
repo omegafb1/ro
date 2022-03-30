@@ -11,9 +11,14 @@ https://streamx.realitatea.net/realitatea/star_md/playlist.m3u8
 #EXTINF:-1,RO: DIGI24
 https://dai.google.com/linear/hls/pa/event/OQfdjUhHSDSlb1fJVzehsQ/stream/2ab6071f-2276-4f4f-bd5b-e14161da42ff:BRU/variant/12e78504dafacb5c4680e887db4c92b7/bandwidth/2917391.m3u8
 #EXTINF:-1,RO: DIGI24
+https://dai.google.com/linear/hls/pa/event/OQfdjUhHSDSlb1fJVzehsQ/stream/54a1bb05-f537-4e2e-86b2-54f274f808c6:BRU/variant/12e78504dafacb5c4680e887db4c92b7/bandwidth/2917391.m3u8
+#EXTINF:-1,RO: DIGI24
 https://dai.google.com/linear/hls/pa/event/OQfdjUhHSDSlb1fJVzehsQ/stream/2ab6071f-2276-4f4f-bd5b-e14161da42ff:BRU/variant/328325f5494203c31438adcc52e30a46/bandwidth/1477770.m3u8
 3510de6ab9355cbdc057/6.ts
-
+#EXTINF:-1,RO: PROHD
+https://sportbarchik88.com/lba/MWY4YmVmOGVmMzBkMzI0OGMwZmE4NTJjMTFiMjc2NjY=/g1/protv.m3u8?token=MWY4YmVmOGVmMzBkMzI0OGMwZmE4NTJjMTFiMjc2NjY=&id=N2ZhNmZiNDk1ZjU2NTc5NmVhMDY2NDk1NjRhZTcyZGI=&vip=1648664686&dip=YjNkOTg5MWFlNWExNGNkZGY5YjFkNDFiMjVkODhkZWE=&pip=MDc3ZjM4ZThjODU2MGQ0NWYxOGNjZjYyZGEwNDRiYmU=&hip=NDIzNWVkZGQ1MmRkMjNjODYxMTllOGI5YmVmZTY5OGE=
+#EXTINF:-1,RO: CHINA
+http://cnhls.ntdtv.com/cn/live400/playlist.m3u8
 
 
 #EXTINF:-1,RO: PRO CINEMA
