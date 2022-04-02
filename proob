@@ -1,14 +1,12 @@
-#EXTINF:-1,AXN East Asia (Vietnamese) (1080p) [Geo-blocked]
-https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AXN-HD-1080p/playlist.m3u8
-#EXTINF:-1,B4U Bhojpuri (576p) [Not 24/7]
-http://14.199.164.20:4001/play/a0nq/index.m3u8
-#EXTINF:-1,B4U Kadak (576p) [Not 24/7]
-http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
-#EXTINF:-1,Bflix Movies (480p)
-https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8
-#EXTINF:-1,Bloody Disgusting (1080p)
-https://bloodydisgusting-ingest-roku-us.cinedigm.com/playlist.m3u8
-#EXTINF:-1,Bollywood HD (1080p) [Not 24/7]
-https://sc.id-tv.kz/bollywood_hd.m3u8
-#EXTINF:-1,Box Cinema (576p) [Not 24/7]
-http://14.199.164.20:4001/play/a0su/index.m3u8
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:164889073
+#EXT-X-TARGETDURATION:11
+#EXTINF:10.000,
+/cntv/live/cdrmcctv6_1_td/164889073.ts?region=beijing
+#EXTINF:10.560,
+/cntv/live/cdrmcctv6_1_td/164889074.ts?region=beijing
+#EXTINF:9.560,
+/cntv/live/cdrmcctv6_1_td/164889075.ts?region=beijing
+#EXTINF:8.880,
+/cntv/live/cdrmcctv6_1_td/164889076.ts?region=beijing
