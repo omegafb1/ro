@@ -1,2 +1,6 @@
 #EXTINF:-1,RO: 6
 https://dxxygowyydqnulro.wzcdn804.net:8443/hls/zs8x4.m3u8
+#EXTINF:-1,RO: hbo mundi
+https://edge5-sl.cvattv.com.ar/live/c6eds/HBO_Mundi/SA_SAGEMCOM/HBO_Mundi-avc1_1726000=10002.m3u8
+#EXTINF:-1,RO: hbo
+https://edge5-sl.cvattv.com.ar/live/c3eds/HBOHD/SA_SAGEMCOM/HBOHD-avc1_1972000=10002.m3u8
