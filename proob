@@ -1,12 +1,1 @@
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-MEDIA-SEQUENCE:164889073
-#EXT-X-TARGETDURATION:11
-#EXTINF:10.000,
-/cntv/live/cdrmcctv6_1_td/164889073.ts?region=beijing
-#EXTINF:10.560,
-/cntv/live/cdrmcctv6_1_td/164889074.ts?region=beijing
-#EXTINF:9.560,
-/cntv/live/cdrmcctv6_1_td/164889075.ts?region=beijing
-#EXTINF:8.880,
-/cntv/live/cdrmcctv6_1_td/164889076.ts?region=beijing
+https://dxxygowyydqnulro.wzcdn804.net:8443/hls/zs8x4.m3u8
