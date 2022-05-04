@@ -1,5 +1,12 @@
 #EXTINF:-1,RO: DIBI MANELE
 
+#EXTINF:-1,RO: Prima tv
+https://stream1.1616.ro:1945/prima/livestream/chunklist_w1931860173_tkd293emF0b2tlbmVuZHRpbWU9MTY1MTcxMjY3OCZ3b3d6YXRva2VuaGFzaD1IOEkyWVZ0ejhpdnhjZkVMRDZYMVF1TFZYRmpzRDFWUDJqTlQxd25yRVRzPSZ3b3d6YXRva2Vuc3RhcnR0aW1lPTE2NTE2Njk0Nzg=.m3u8
+
+#EXTINF:-1,RO: Digi24
+https://dai.google.com/linear/hls/pa/event/OQfdjUhHSDSlb1fJVzehsQ/stream/17652167-266c-46d7-908f-29856203db4b:BRU/variant/12e78504dafacb5c4680e887db4c92b7/bandwidth/2917391.m3u8
+
+
 #EXTINF:-1,RO: REALITATEA PLUS
 https://streamx.realitatea.net/realitatea/star_md/playlist.m3u8
 #EXTINF:-1,RO: ANTENA 1
