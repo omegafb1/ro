@@ -1,13 +1,12 @@
 #EXTINF:-1,RO: DIBI MANELE
 http://82.76.210.127:1935/dibitv/live/chunklist_w1157238824.m3u8
-#EXTM3U
-#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",CINEMAX 2
-http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/4499?checkedby:iptvcat.com
-
-#EXTINF:-1,RO:PrimaTv
+#EXTINF:-1,RO: prima tv
 https://stream1.1616.ro:1945/prima/livestream/chunklist_w1931860173_tkd293emF0b2tlbmVuZHRpbWU9MTY1MTcxMjY3OCZ3b3d6YXRva2VuaGFzaD1IOEkyWVZ0ejhpdnhjZkVMRDZYMVF1TFZYRmpzRDFWUDJqTlQxd25yRVRzPSZ3b3d6YXRva2Vuc3RhcnR0aW1lPTE2NTE2Njk0Nzg=.m3u8
-#EXTINF:-1,RO: cinex
-https://list.iptvcat.com/my_list/s/7f96a3feae268d5763d74420bd82aecc.m3u8
+
+#EXTINF:-1,RO: ro
+https://dai.google.com/linear/hls/pa/event/OQfdjUhHSDSlb1fJVzehsQ/stream/17652167-266c-46d7-908f-29856203db4b:BRU/variant/12e78504dafacb5c4680e887db4c92b7/bandwidth/2917391.m3u8
+#EXTINF:-1,RO: ant1
+https://list.iptvcat.com/my_list/s/b0708b44bae423f36fa6bc7c55116056.m3u8
 #EXTINF:-1,RO: ant1
 https://list.iptvcat.com/my_list/s/7dfd1c6941c239814ad070ab1258af22.m3u8
 #EXTINF:-1,RO: antStars
@@ -20,6 +19,18 @@ https://list.iptvcat.com/my_list/s/2e9914812c267beeead5fe9fbfb40099.m3u8
 https://list.iptvcat.com/my_list/s/e5dba81736ac4bb04ebbde15430a3483.m3u8
 #EXTINF:-1,RO: bo clasic
 https://list.iptvcat.com/my_list/s/13efa28acd3baf2ae3fd54daf3d7a470.m3u8
+#EXTINF:-1,RO: film now
+https://list.iptvcat.com/my_list/s/2b7504ecec9b3a5b457118a4de06cb92.m3u8
+#EXTINF:-1,RO: cineextra
+https://list.iptvcat.com/my_list/s/a9c988041714b06fa60ad94bfb4697d5.m3u8
+#EXTINF:-1,RO: fiboxpremm
+https://list.iptvcat.com/my_list/s/2961d5a17956b6cc576e51ac5a7450cf.m3u8
+#EXTINF:-1,RO: kan d
+https://list.iptvcat.com/my_list/s/48d060290c064e1d6945e696eb7d8277.m3u8
+#EXTINF:-1,RO: pro tv
+https://list.iptvcat.com/my_list/s/861ac3dea6cd367a3513b5eb2f76c5e5.m3u8
+#EXTINF:-1,RO: cinem
+https://list.iptvcat.com/my_list/s/80503823dd6af798efe37488589eb383.m3u8
 
 
 
