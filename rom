@@ -1,4 +1,24 @@
 #EXTINF:-1,RO: DIBI MANELE
+#EXTM3U
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",CINEMAX 2
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/4499?checkedby:iptvcat.com
+
+ant1
+https://list.iptvcat.com/my_list/s/b0708b44bae423f36fa6bc7c55116056.m3u8
+ant1
+https://list.iptvcat.com/my_list/s/7dfd1c6941c239814ad070ab1258af22.m3u8
+antStars
+https://list.iptvcat.com/my_list/s/2e5b19509bfadb5f702dee96b5a361a2.m3u8
+ant1
+https://list.iptvcat.com/my_list/s/37effa511ebb0d669052b8541632a227.m3u8
+an1
+https://list.iptvcat.com/my_list/s/2e9914812c267beeead5fe9fbfb40099.m3u8
+ant1
+https://list.iptvcat.com/my_list/s/e5dba81736ac4bb04ebbde15430a3483.m3u8
+bo clasic
+https://list.iptvcat.com/my_list/s/13efa28acd3baf2ae3fd54daf3d7a470.m3u8
+
+
 
 #EXTINF:-1,RO: Prima tv
 https://stream1.1616.ro:1945/prima/livestream/chunklist_w1931860173_tkd293emF0b2tlbmVuZHRpbWU9MTY1MTcxMjY3OCZ3b3d6YXRva2VuaGFzaD1IOEkyWVZ0ejhpdnhjZkVMRDZYMVF1TFZYRmpzRDFWUDJqTlQxd25yRVRzPSZ3b3d6YXRva2Vuc3RhcnR0aW1lPTE2NTE2Njk0Nzg=.m3u8
