@@ -3,6 +3,31 @@ http://82.76.210.127:1935/dibitv/live/chunklist_w1157238824.m3u8
 #EXTINF:-1,RO: prima tv
 https://stream1.1616.ro:1945/prima/livestream/chunklist_w1931860173_tkd293emF0b2tlbmVuZHRpbWU9MTY1MTcxMjY3OCZ3b3d6YXRva2VuaGFzaD1IOEkyWVZ0ejhpdnhjZkVMRDZYMVF1TFZYRmpzRDFWUDJqTlQxd25yRVRzPSZ3b3d6YXRva2Vuc3RhcnR0aW1lPTE2NTE2Njk0Nzg=.m3u8
 
+
+#EXTINF:-1 tvg-id="AntenaSport.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/UnkDhbr.png" group-title="Sports",AntenaSport (720p) [Not 24/7]
+https://stream1.antenaplay.ro/dfs/farasecrete5/playlist.m3u8
+
+#EXTINF:-1 tvg-id="InsightTV.nl" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/7xmaoL0.png" group-title="Sports",Insight TV (1080p)
+https://insighttv-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="IntermediaTV.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/OIS0cpm.png" group-title="Undefined",Intermedia TV (576p)
+http://46.4.14.12:9999/intermedia1/playlist.m3u8
+#EXTINF:-1 tvg-id="KanalD.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a6/Kanal_D_Romania.png" group-title="General",Kanal D (384p) [Not 24/7]
+https://stream1.kanald.ro/iphone/live.m3u8
+
+#EXTINF:-1 tvg-id="EuronewsEnglish.fr" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="News",Pluto TV Euronews (720p) [Not 24/7]
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60d3583ef310610007fb02b1/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="PrimaTV.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/oLuxC2P.png" group-title="General",Prima TV (404p) [Not 24/7]
+https://stream1.1616.ro:1945/prima/livestream/playlist.m3u8?wowzatokenhash=hOdIznDoakApEuQ8FaFI3yrJuBMZHqCB7B3cWTmRWsc=
+#EXTINF:-1 tvg-id="ProTV.ro" tvg-country="RO" tvg-language="English;Romanian" tvg-logo="https://static.cinemagia.ro/img/tv_station/pro-tv.jpg" group-title="Undefined",Pro TV (1080p)
+https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-voyo-news/playlist.m3u8?offsetSeconds=0&url=0
+#EXTINF:-1 tvg-id="" tvg-country="RO" tvg-language="" tvg-logo="" group-title="Undefined",Profit.ro (404p)
+https://stream1.1616.ro:1945/profit/livestream/playlist.m3u8?wowzatokenhash=hOdIznDoakApEuQ8FaFI3yrJuBMZHqCB7B3cWTmRWsc=
+#EXTINF:-1 tvg-id="" tvg-country="RO" tvg-language="" tvg-logo="" group-title="Undefined",Profit.ro (404p) [Not 24/7]
+https://stream1.profit.ro:1945/profit/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="RealitateaTV.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/L0Givzu.png" group-title="Undefined",Realitatea FM (Studio) (576p) [Not 24/7]
+https://live.realitatea.net/livertmp/plus/playlist.m3u8
+
+
 #EXTINF:-1,RO: MEGA
 https://list.iptvcat.com/my_list/s/8cfce8de81d9e1e22f2b94c70797e3cf.m3u8
 #EXTINF:-1,RO: MEGA
