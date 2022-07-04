@@ -1,53 +1,266 @@
+#EXTM3U
 #EXTINF:-1,RO: DIBI MANELE
 http://82.76.210.127:1935/dibitv/live/chunklist_w1157238824.m3u8
-#EXTINF:-1,RO: prima tv
-https://stream1.1616.ro:1945/prima/livestream/chunklist_w1931860173_tkd293emF0b2tlbmVuZHRpbWU9MTY1MTcxMjY3OCZ3b3d6YXRva2VuaGFzaD1IOEkyWVZ0ejhpdnhjZkVMRDZYMVF1TFZYRmpzRDFWUDJqTlQxd25yRVRzPSZ3b3d6YXRva2Vuc3RhcnR0aW1lPTE2NTE2Njk0Nzg=.m3u8
+#EXTINF:-1,RO: PRO TV
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/10002
+#EXTINF:-1,RO: PRO Cinema
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/10003
+#EXTINF:-1,RO: Romania TV
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/10004
+#EXTINF:-1,RO: Realitatea TV Plus
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/10005
+#EXTINF:-1,RO: Antena Stars
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/10006
+#EXTINF:-1,RO: TVR 1
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/10007
+#EXTINF:-1,RO: TVR 2
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/10008
+#EXTINF:-1,RO: TV 1000 HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/10010
+#EXTINF:-1,RO: Taraf TV
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/10011
+#EXTINF:-1,RO: Viasat History
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/10012
+#EXTINF:-1,RO: HBO 1
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/10013
+#EXTINF:-1,RO: HBO 2
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/10014
+#EXTINF:-1,RO: HBO 3
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/10015
+#EXTINF:-1,RO: Digi 24
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/10020
+#EXTINF:-1,RO: Epic Drama
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/10067
+#EXTINF:-1,RO: Bucuresti TV
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/10069
+#EXTINF:-1,RO: BBC Earth HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/10070
+#EXTINF:-1,RO: TVR 3
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/10071
+#EXTINF:-1,RO: Travel Mix
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/10072
+#EXTINF:-1,RO: Travel Channel
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/10073
+#EXTINF:-1,RO: TLC HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/10074
+#EXTINF:-1,RO: Bollywood
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/10075
+#EXTINF:-1,RO: PRO Gold
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/10076
+#EXTINF:-1,RO: PRO 2
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/10077
+#EXTINF:-1,RO: Prima TV
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/10078
+#EXTINF:-1,RO: Nicktoons
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/10079
+#EXTINF:-1,RO: Nick Jr
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/10080
+#EXTINF:-1,RO: National TV
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/10081
+#EXTINF:-1,RO: Look Plus HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/10085
+#EXTINF:-1,RO: Hit Music
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/10086
+#EXTINF:-1,RO: History
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/10087
+#EXTINF:-1,RO: Film Now FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/10089
+#EXTINF:-1,RO: Film Cafe
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/10090
+#EXTINF:-1,RO: Favorit TV
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/10091
+#EXTINF:-1,RO: E! Entertainment HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/10093
+#EXTINF:-1,RO: Diva
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/10094
+#EXTINF:-1,RO: Discovery Channel FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/10095
+#EXTINF:-1,RO: Investigation Discovery
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/10096
+#EXTINF:-1,RO: Da Vinci Learning
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/10097
+#EXTINF:-1,RO: Cinemax 2
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/10100
+#EXTINF:-1,RO: Antena 1
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/26776
+#EXTINF:-1,RO: Antena 3
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/26778
+#EXTINF:-1,RO: Antena Stars FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/26780
+#EXTINF:-1,RO: AXN FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/26781
+#EXTINF:-1,RO: Cinemax
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/26782
+#EXTINF:-1,RO: Cinemax FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/26783
+#EXTINF:-1,RO: HBO 1 Full HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/26786
+#EXTINF:-1,RO: HBO 2 Full HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/26787
+#EXTINF:-1,RO: HBO 3 Full HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/26788
+#EXTINF:-1,RO: NatGeo Full HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/26790
+#EXTINF:-1,RO: PRO 2 Full HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/26791
 
 
-#EXTINF:-1,RO: tvg-id="AntenaSport.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/UnkDhbr.png" group-title="Sports",AntenaSport (720p) [Not 24/7]
-https://stream1.antenaplay.ro/dfs/farasecrete5/playlist.m3u8
+#EXTINF:-1,RO: PRO TV FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/36615
+#EXTINF:-1,RO: Animal Planet FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/36620
+#EXTINF:-1,RO: NatGeo Wild FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/40500
+#EXTINF:-1,RO: AXN Spin HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/40501
+#EXTINF:-1,RO: FilmBox Premium
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/40503
+#EXTINF:-1,RO: FilmBox Family
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/40504
+#EXTINF:-1,RO: FilmBox Extra HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/40505
+#EXTINF:-1,RO: FilmBox
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/40506
+#EXTINF:-1,RO: Cinethronix
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/40508
+#EXTINF:-1,RO: TNT
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/40509
+#EXTINF:-1,RO: Boomerang
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/40515
 
-#EXTINF:-1 tvg-id="InsightTV.nl" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/7xmaoL0.png" group-title="Sports",Insight TV (1080p)
-https://insighttv-vizio.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="IntermediaTV.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/OIS0cpm.png" group-title="Undefined",Intermedia TV (576p)
-http://46.4.14.12:9999/intermedia1/playlist.m3u8
-#EXTINF:-1 tvg-id="KanalD.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a6/Kanal_D_Romania.png" group-title="General",Kanal D (384p) [Not 24/7]
-https://stream1.kanald.ro/iphone/live.m3u8
+#EXTINF:-1,RO: Antena 3 FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/80075
+#EXTINF:-1,RO: Digi World HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/80076
+#EXTINF:-1,RO: TVR 1 FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/80077
+#EXTINF:-1,RO: TVR 2 FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/80078
+#EXTINF:-1,RO: A7 HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/126408
+#EXTINF:-1,RO: AMC HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/126409
+#EXTINF:-1,RO: Antena 3 HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/126410
+#EXTINF:-1,RO: Antena Stars HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/126411
+#EXTINF:-1,RO: Arcadia TV FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/126413
+#EXTINF:-1,RO: AXN Black HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/126414
+#EXTINF:-1,RO: Bollywood FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/126415
 
-#EXTINF:-1 tvg-id="EuronewsEnglish.fr" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="News",Pluto TV Euronews (720p) [Not 24/7]
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60d3583ef310610007fb02b1/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-id="PrimaTV.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/oLuxC2P.png" group-title="General",Prima TV (404p) [Not 24/7]
-https://stream1.1616.ro:1945/prima/livestream/playlist.m3u8?wowzatokenhash=hOdIznDoakApEuQ8FaFI3yrJuBMZHqCB7B3cWTmRWsc=
-#EXTINF:-1 tvg-id="ProTV.ro" tvg-country="RO" tvg-language="English;Romanian" tvg-logo="https://static.cinemagia.ro/img/tv_station/pro-tv.jpg" group-title="Undefined",Pro TV (1080p)
-https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-voyo-news/playlist.m3u8?offsetSeconds=0&url=0
-#EXTINF:-1 tvg-id="" tvg-country="RO" tvg-language="" tvg-logo="" group-title="Undefined",Profit.ro (404p)
-https://stream1.1616.ro:1945/profit/livestream/playlist.m3u8?wowzatokenhash=hOdIznDoakApEuQ8FaFI3yrJuBMZHqCB7B3cWTmRWsc=
-#EXTINF:-1 tvg-id="" tvg-country="RO" tvg-language="" tvg-logo="" group-title="Undefined",Profit.ro (404p) [Not 24/7]
-https://stream1.profit.ro:1945/profit/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="RealitateaTV.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/L0Givzu.png" group-title="Undefined",Realitatea FM (Studio) (576p) [Not 24/7]
-https://live.realitatea.net/livertmp/plus/playlist.m3u8
-
-
-
-
-
-
-#EXTINF:-1,RO: tv5 tvg-chno=3
-http://94.127.187.118:8080/hls/t5.m3u8
-#EXTINF:-1,RO: tve
-https://rtvelivestreamv3.akamaized.net/rtvesec/la1/la1_main_dvr_720.m3u8
-#EXTINF:-1,RO: hbo xtreme
-https://edge5-sl.cvattv.com.ar/live/c6eds/HBO_Extreme/SA_SAGEMCOM/HBO_Extreme.m3u8
-#EXTINF:-1,RO: signature
-https://edge5-sl.cvattv.com.ar/live/c6eds/HBO_Signature/SA_SAGEMCOM/HBO_Signature.m3u8
-#EXTINF:-1,RO: hbo2
-https://edge5-sl.cvattv.com.ar/live/c6eds/HBO_2/SA_SAGEMCOM/HBO_2.m3u8
-#EXTINF:-1,RO: hboplus
-https://edge5-sl.cvattv.com.ar/live/c6eds/HBO_Family/SA_SAGEMCOM/HBO_Family.m3u8
-#EXTINF:-1,RO: hbo+
-https://edge5-sl.cvattv.com.ar/live/c3eds/HBOHD/SA_SAGEMCOM/HBOHD.m3u8
-#EXTINF:-1,RO: id
-https://edge5-sl.cvattv.com.ar/live/c7eds/ID/SA_SAGEMCOM/ID.m3u8
+#EXTINF:-1,LAT: Kanal D en Español HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/233950
+#EXTINF:-1,LAT: Kanal D en Español
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/162328
+#EXTINF:-1,ES: TVE Internacional SD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/27229
+#EXTINF:-1,ES: 24h SD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/115702
+#EXTINF:-1,ES: La 1 SD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/102
+#EXTINF:-1,ES: La 1 HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3071
+#EXTINF:-1,ES: La 1 FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/103
+#EXTINF:-1,ES: La 2 SD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/106
+#EXTINF:-1,ES: La 2 HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/228841
+#EXTINF:-1,ES: La 2 FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/107
+#EXTINF:-1,ES: Antena 3 SD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/36
+#EXTINF:-1,ES: Antena 3 HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3072
+#EXTINF:-1,ES: Antena 3 FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/35
+#EXTINF:-1,ES: Antena 3 Internacional SD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24433
+#EXTINF:-1,ES: Antena 3 Internacional FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24434
+#EXTINF:-1,ES: Cuatro SD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/2
+#EXTINF:-1,ES: Cuatro HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3073
+#EXTINF:-1,ES: Cuatro FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/144
+#EXTINF:-1,ES: Telecinco SD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/75
+#EXTINF:-1,ES: Telecinco HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3074
+#EXTINF:-1,ES: Telecinco FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/77
+#EXTINF:-1,ES: La Sexta SD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/104
+#EXTINF:-1,ES: La Sexta HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3075
+#EXTINF:-1,ES: La Sexta FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/105
+#EXTINF:-1,LA 1
+http://tv.skuiptv.com:90/roman/roman/43048
+#EXTINF:-1,LA 1 FHD
+http://tv.skuiptv.com:90/roman/roman/43047
+#EXTINF:-1,LA 2
+http://tv.skuiptv.com:90/roman/roman/43050
+#EXTINF:-1,LA 2 FHD
+http://tv.skuiptv.com:90/roman/roman/43051
+#EXTINF:-1,ANTENA 3
+http://tv.skuiptv.com:90/roman/roman/43052
+#EXTINF:-1,ANTENA 3 FHD
+http://tv.skuiptv.com:90/roman/roman/43054
+#EXTINF:-1,CUATRO
+http://tv.skuiptv.com:90/roman/roman/43055
+#EXTINF:-1,CUATRO FHD
+http://tv.skuiptv.com:90/roman/roman/43057
+#EXTINF:-1,TELECINCO
+http://tv.skuiptv.com:90/roman/roman/43058
+#EXTINF:-1,TELECINCO FHD
+http://tv.skuiptv.com:90/roman/roman/43060
+#EXTINF:-1,LA SEXTA
+http://tv.skuiptv.com:90/roman/roman/43061
+#EXTINF:-1,LA SEXTA  FHD
+http://tv.skuiptv.com:90/roman/roman/43063
+#EXTINF:-1,DMAX
+http://tv.skuiptv.com:90/roman/roman/43288
+#EXTINF:-1,MEGA
+http://tv.skuiptv.com:90/roman/roman/43457
+#EXTINF:-1,DIVINITY
+http://tv.skuiptv.com:90/roman/roman/43454
+#EXTINF:-1,BEMAD
+http://tv.skuiptv.com:90/roman/roman/43450
+#EXTINF:-1,ENERGY
+http://tv.skuiptv.com:90/roman/roman/43455
+#EXTINF:-1,NEOX
+http://tv.skuiptv.com:90/roman/roman/43458
+#EXTINF:-1,NOVA
+http://tv.skuiptv.com:90/roman/roman/43459
+#EXTINF:-1,TEN
+http://tv.skuiptv.com:90/roman/roman/43289
+#EXTINF:-1,FDF
+http://tv.skuiptv.com:90/roman/roman/43266
+#EXTINF:-1,DKISS
+http://tv.skuiptv.com:90/roman/roman/43267
+#EXTINF:-1,A3SERIES
+http://tv.skuiptv.com:90/roman/roman/43268
+#EXTINF:-1,24 HORAS
+http://tv.skuiptv.com:90/roman/roman/43064
+#EXTINF:-1,#0
+http://tv.skuiptv.com:90/roman/roman/43099
+#EXTINF:-1,#0 FHD
+http://tv.skuiptv.com:90/roman/roman/43101
+#EXTINF:-1,M. ESTRENOS
+http://tv.skuiptv.com:90/roman/roman/43102
+#EXTINF:-1,M. ESTRENOS FHD
+http://tv.skuiptv.com:90/roman/roman/43104
+#EXTINF:-1,M. ESTRENOS 2 FHD
+http://tv.skuiptv.com:90/roman/roman/44269
+#EXTINF:-1,ACCION
+http://tv.skuiptv.com:90/roman/roman/43105
+#EXTINF:-1,ACCION FHD
+http://tv.skuiptv.com:90/roman/roman/43107
 
 
 
