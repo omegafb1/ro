@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:-1,PRIMAtV
 https://stream1.1616.ro:1945/prima/livestream/playlist.m3u8?wowzatokenendtime=1660289690&wowzatokenhash=_Gz5qDburYznRdjLFPh4yUxp4JAk4myRB4IZ3SYzV8k=&wowzatokenstarttime=1660246490
+#EXTINF:-1,PRIMA
+https://stream1.1616.ro:1945/prima/livestream/chunklist_w523632262.m3u8
